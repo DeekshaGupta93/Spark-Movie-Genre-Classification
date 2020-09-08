@@ -8,9 +8,9 @@ movies with their genres. This was used to train the predictive
 analysis model.
 o Testing data (test.csv): Plot summaries of nearly 31,000 movies
 with their genres. This was used to test the predictive analysis
-model.
+model.<br>
 o Sample data (sample.csv): Sample submission file which shows
-the format in which the predictions (0s or 1s) are to be done.
+the format in which the predictions (0s or 1s) are to be done.<br>
 o Mapping data (mapping.csv): Mapping of genre to string index.
 If it’s a Drama movie then there’s a 1 at the first position and if
 not, 0 elsewhere.
