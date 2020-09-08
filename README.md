@@ -15,13 +15,13 @@ o Mapping data (mapping.csv): Mapping of genre to string index.
 If it’s a Drama movie then there’s a 1 at the first position and if
 not, 0 elsewhere.
 
-## List of Techniques Used
-RegexTokenizer
-StopWordsRemover
-Count Vectorizer
-TF-IDF
-Word2Vec
-Random Forest(for classification model)
-String Indexing
+## List of Techniques Used:
+o RegexTokenizer<br>
+o StopWordsRemover<br>
+o Count Vectorizer<br>
+o TF-IDF<br>
+o Word2Vec<br>
+o Random Forest(for classification model)<br>
+o String Indexing<br>
 
 <b> Macro F-1 score of 1 was obtained after using Random Forest and Word2Vec. </b>
